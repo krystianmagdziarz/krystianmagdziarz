@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krystianmagdziarz" alt="krystianmagdziarz" /></a> </p>
 
+If you are looking for someone who knows Django and can arrange sales strategies - I am at your disposal.
+
 - 🔭 I’m currently working on [SEOEagle.io](https://seoeagle.io/)
 
 - 🌱 I’m currently learning **Kafka and Elastic.**
