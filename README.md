@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krystian MAGDZIARZ</h1>
 <h3 align="center">I love programming, marketing and SEO.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krystianmagdziarz" alt="krystianmagdziarz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krystianmagdziarz" alt="krystianmagdziarz" /></a> </p>
 
 If you are looking for someone who knows Django and can arrange sales strategies - I am at your disposal.
 
