@@ -5,7 +5,7 @@
 
 If you are looking for someone who knows Django and can arrange sales strategies - I am at your disposal.
 
-- 🔭 I’m currently working on [SEOEagle.io](https://seoeagle.io/)
+- 🔭 I’m currently working on [SEOEagle.io](https://webcrawl.co/)
 
 - 🌱 I’m currently learning **Kafka and Elastic.**
 
@@ -14,8 +14,6 @@ If you are looking for someone who knows Django and can arrange sales strategies
 - 📝 I regularly write articles on [https://kmagdziarz.pl](https://kmagdziarz.pl)
 
 - 💬 Ask me about **Django, SEO and marketing.**
-
-- 📫 How to reach me **kontakt@kmagdziarz.pl**
 
 - ⚡ Fun fact **I built my own house myself because I wanted to get to know the construction industry.**
 
